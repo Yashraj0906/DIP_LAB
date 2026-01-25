@@ -1,6 +1,6 @@
 # Digital Image Processing using MATLAB
 
-This repository contains a basic implementation of fundamental Digital Image Processing (DIP) operations using MATLAB. The project focuses on understanding how common image processing techniques work internally by implementing them from scratch.
+This repository contains a basic implementation of fundamental Digital Image Processing (DIP) operations using MATLAB. The repository focuses on understanding how common image processing techniques work internally by implementing them from scratch.
 
 ---
 
