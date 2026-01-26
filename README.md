@@ -16,7 +16,9 @@ To help understand the working of core image processing algorithms and concepts 
 - Histogram Equalization  
 - Wavelet Transformation  
 - Tambola Ticket 
-- Bit Slicing  
+- Bit Slicing
+- Shannon Fano Coding
+- Huffman Coding
 
 ---
 
