@@ -10,18 +10,6 @@ To help understand the working of core image processing algorithms and concepts 
 
 ---
 
-## 🚀 Features
-
-- Basics of Image Processing  
-- Histogram Equalization  
-- Wavelet Transformation  
-- Tambola Ticket 
-- Bit Slicing
-- Shannon Fano Coding
-- Huffman Coding
-
----
-
 ## 🛠 Requirements
 
 - MATLAB (any recent version)
